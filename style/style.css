@@ -1,0 +1,26 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+#landing {
+  height: 70vh;
+  background-image: url("./../pictures/programming.jpg");
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+#page-title {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.courses-header {
+  margin-top: 50px;
+}
+
+.dark-btn {
+  background-color: #333;
+  color: #fff;
+  border: 1px solid #666;
+}
